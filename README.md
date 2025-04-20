@@ -3,9 +3,9 @@
 This is a simple **Student Management System** built using Java and JDBC. It allows basic CRUD operations on student data stored in a relational database like MySQL, including a search feature to quickly look up students by name or other attributes.
 
 ## 📁 Project Structure
-
-Student Management System using Java and JDBC/ ├── src/ │ └── myPackage/ │ ├── App.java # Main entry point │ ├── DB.java # Database connection logic │ ├── Query.java # SQL query templates │ ├── Student.java # Student model class │ └── StudentDao.java # DAO class for handling student data ├── bin/ # Compiled .class files ├── .classpath / .project # Eclipse project config
-
+```
+Student Management System using Java and JDBC/ ├── src/ │ └── myPackage/ │ ├── App.java # Main entry point │ ├── DB.java # Database connection logic │ ├── Query.java # SQL query templates │ ├── Student.java # Student model class │ └── StudentDao.java # DAO class for handling student data ├── bin/ # Compiled .class files ├── .classpath / .project  Eclipse project config
+```
 ## 🛠 Technologies Used
 
 - Java (Core)
