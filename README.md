@@ -1,4 +1,4 @@
-# Student Management System using Java and JDBC
+# 🙎 Student Management System using Java and JDBC 🙎‍♀️
 
 This is a simple **Student Management System** built using Java and JDBC. It allows basic CRUD operations on student data stored in a relational database like MySQL, including a search feature to quickly look up students by name or other attributes.
 
