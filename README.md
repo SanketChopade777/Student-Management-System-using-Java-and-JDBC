@@ -4,7 +4,8 @@ This is a simple **Student Management System** built using Java and JDBC. It all
 
 ## 📁 Project Structure
 ```
-Student Management System using Java and JDBC/ ├── src/ │ └── myPackage/ │ ├── App.java # Main entry point │ ├── DB.java # Database connection logic │ ├── Query.java # SQL query templates │ ├── Student.java # Student model class │ └── StudentDao.java # DAO class for handling student data ├── bin/ # Compiled .class files ├── .classpath / .project  Eclipse project config
+Student Management System using Java and JDBC/ ├── src/ │ └── myPackage/ │ ├── App.java # Main entry point │ ├── DB.java # Database connection logic │ ├── Query.java # SQL query templates │ ├── Student.java # Student model class │ └── StudentDao.java # DAO class for handling student data ├── bin/ # Compiled .class files ├── .classpath # Eclipse classpath configuration ├── .project # Eclipse project metadata
+
 ```
 ## 🛠 Technologies Used
 
